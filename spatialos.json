@@ -1,26 +1,26 @@
 {
-  projects: [
+  "projects": [
     {
-      id: "frtAa33E11UNfeaNXFp7mh",
-      name: "Project #1"
+      "id": "frtAa33E11UNfeaNXFp7mh",
+      "name": "Project #1"
     },
     {
-      id: "3cHXHoaYcyVXWxcdHewWb",
-      name: "KeanuReeves"
+      "id": "3cHXHoaYcyVXWxcdHewWb",
+      "name": "KeanuReeves"
     }
   ],
-  deployments: [
+  "deployments": [
     {
-      id: "qgpAm6gPeH6TCedLTw9H7V",
-      name: "Deployment #1",
-      projectId: "frtAa33E11UNfeaNXFp7mh",
-      status: "running"
+      "id": "qgpAm6gPeH6TCedLTw9H7V",
+      "name": "Deployment #1",
+      "projectId": "frtAa33E11UNfeaNXFp7mh",
+      "status": "running"
     },
     {
-      id: "weNtLYqCRQmBWGi8dcU9TC",
-      name: "Deployment #2",
-      projectId: "frtAa33E11UNfeaNXFp7mh",
-      status: "running"
+      "id": "weNtLYqCRQmBWGi8dcU9TC",
+      "name": "Deployment #2",
+      "projectId": "frtAa33E11UNfeaNXFp7mh",
+      "status": "running"
     }
   ]
 }
